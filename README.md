@@ -57,6 +57,7 @@ Làm tương tự bước ```4```
 9. Thêm địa chỉ ip máy ảo vào máy host
 
 Windows
+
 9.1. Mở notepad với quyền admin
 
 9.2. Mở file ```host``` trong đường dẫn ```C:\Windows\System32\drivers\etc```
