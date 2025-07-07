@@ -66,7 +66,7 @@ Windows
 
 10. Clone repository này về
 ```
-git clone 
+git clone https://github.com/pnquang260805/Samsung.git
 ```
 
 11. Cài đặt thư viện
