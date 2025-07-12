@@ -1,5 +1,5 @@
 # Hướng dẫn sử dụng
-1. Tải và giải nén <a href="https://drive.google.com/file/d/15XK-jNDjznGzeXRSmXOt5ZBr8xpOd5PD/view?usp=drive_link"> file máy ảo sau</a>
+1. Tải và giải nén <a href="[https://drive.google.com/file/d/15XK-jNDjznGzeXRSmXOt5ZBr8xpOd5PD/view?usp=drive_link](https://drive.google.com/file/d/1YwSKqACWQ_Jk-5ySAiSum99C2iXLdU4x/view?usp=sharing)"> file máy ảo sau</a>
 
 2. Mở vmware và thêm máy ảo
 
